@@ -12,9 +12,7 @@ We are excited to release our first blog post, we have a lot to share and a lot 
   
 ## LDWho?  
 
-If you’re reading this, you probably know something about the Lightning Development Kit, the easy-to-use open-source tool that simplifies how developers add highly secure, privacy-preserving Lightning functionality to bitcoin applications. What you might not know is how it got started. 
-
-If you’re reading this, you probably know something about the Lightning Development Kit, the easy-to-use open-source tool that simplifies how developers add highly secure, privacy-preserving Lightning functionality to bitcoin applications. What you might not know is how it got started. 
+ If you’re reading this, you probably know something about the Lightning Development Kit, the easy-to-use open-source tool that simplifies how developers add highly secure, privacy-preserving Lightning functionality to bitcoin applications. What you might not know is how it got started. 
 
 LDK began as a side project developed by Matt Corallo [@TheBlueMatt](https://twitter.com/TheBlueMatt) in [2018](https://github.com/lightningdevkit/rust-lightning/commit/6185a2819090bd077954244c5e2adaab5efcaa1a) called rust-lightning. One of Matt’s earliest rust-lightning [demos](https://www.youtube.com/watch?v=bfAz0vYlDAI) shows how you can take a full Lightning implementation (managing channels, generating messages to send to peers, signatures, on-chain punishment, etc), and use it to create a library with high-level APIs, so developers can build more and agonize less.
 
